@@ -14,3 +14,7 @@ elif cookie_choice == 'c':
 
 print "------------------------------"
 print "THANKS FOR PLAYING"
+print "Now I'm practicing with Git...",
+print "It's pretty cool."
+
+print "now i'm adding another line"
