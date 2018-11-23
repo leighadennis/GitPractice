@@ -1,0 +1,4 @@
+"""
+NEW EASY PYTHON PRACTICE. GUESS THE NUMBER.
+"""
+print "hey"
